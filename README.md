@@ -5,7 +5,9 @@
 Messages containing a title, image, date, and text body will appear in the main page of the app, in a swipable carousel style with the most recent message displayed first. Images are resized to 300x300 and longer text messages are viewable by scrolling. 
 
 ## TO USE:
-Edit the parameters for as many items as desired following the template in slides.js, which will then be loaded by messageLoader.js and displayed to the user. Upload the desired images into the project folder. Time and date are local the user's device. The user can view the app using Expo Go.
+Edit the parameters for as many items as desired following the template in slides.js, which will then be loaded by messageLoader.js and displayed to the user. Create an images folder and upload the desired images into the project folder. Time and date are local the user's device. 
+
+Before running the program, run npm install to install the dependencies for the project. Run the program using npm start while in the project folder. The user can view the app using Expo Go.
 
 ## SOME FUTURE ADDITIONS:
 -improving accessibilty of app
